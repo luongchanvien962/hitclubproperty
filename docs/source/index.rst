@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+HITCLUB - Website Chính Chủ Chơi Game HIT CLUB 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hitclub <https://hitclub.property/>`_ là cổng game số 1 tại Việt Nam, nổi bật trong lĩnh vực game đổi thưởng và cá cược, cung cấp những sản phẩm giải trí chất lượng nhất năm 2024. Với uy tín và sự tín nhiệm kế thừa từ các cổng game đàn anh như Top88, FA88, YO88, và Go88, Hitclub đã thu hút hơn 1 triệu lượt truy cập mỗi ngày, khẳng định vị thế của mình trong cộng đồng cá cược. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Sản phẩm nổi bật của Hitclub bao gồm các game bài, cá cược cao, nổ hũ, và cá cược thể thao, mang lại cho người chơi những trải nghiệm đa dạng, hấp dẫn. Bên cạnh kho game đồ sộ, Hitclub còn cung cấp dịch vụ chăm sóc khách hàng 24/24, ứng dụng di động tiện lợi, và hệ thống thanh toán nhanh chóng, đảm bảo trải nghiệm mượt mà, an toàn cho người chơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 8/1H ấp Xuân Thới Đông 1, Xuân Thới Đông, Hóc Môn, Hồ Chí Minh, Vietnam. 
 
-Contents
---------
+Phone: 0898956523. 
 
-.. toctree::
+Email: info@hitclub.property. 
 
-   usage
-   api
+Website: https://hitclub.property/ 
+
+#hitclub #nhacaihitclub #trangchuhitclub #dangkyhitclub #linkhitclub
